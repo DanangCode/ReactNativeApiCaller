@@ -1,0 +1,1 @@
+simple react native app which calls a rest api, parses the json response and displays in React.js. apdated from this tutorial https://www.raywenderlich.com/485-react-native-tutorial-building-ios-apps-with-javascript
